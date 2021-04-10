@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vissarion-filippopoulos
-- 👀 I’m interested in web developing and pizza
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web apps or Websites
 - 📫 Reach me here or on https://www.linkedin.com/in/vissarion-filippopoulos/
